@@ -1,5 +1,7 @@
 Resolusi 2021
-- Menguasai Github
 - Menguasai dasar algoritma
 - menekuni pembuatan aplikasi dengan java
 - belajar android studio dari dasar
+
+Resolusi Selesai :
+- Menguasai github (done)
